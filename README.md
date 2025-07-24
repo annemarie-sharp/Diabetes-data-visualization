@@ -56,7 +56,20 @@ Some guiding questions for Exploratory Data Analysis included:
 
 ---
 
+## Visualizations
+
+**1. Gender Distribution by Age Group**  
+![Gender Distribution by Age Group](./Gender%20by%20Age%20Group.png)
+
+**2. Readmission Rates by Age Group**  
+![Readmission by Age Group](./Readmission%20by%20Age%20Group.png)
+
+**3. Medication Usage Trends Across Hospital Encounters**  
+![Medication Usage Trends](./Medication%20Usage%20Trends.png)
+
+
 ## Data Analysis
+
 The dataset was analyzed using Excel through pivot tables, formulas, and interactive slicers. Three key visualizations were created to answer core questions. Bar charts were plotted:
 1. Showing gender distribution across age groups.  
 2. Displaying readmission rates segmented by age group.  
